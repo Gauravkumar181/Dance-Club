@@ -22,3 +22,6 @@
 ![image](https://user-images.githubusercontent.com/110786692/183487979-e8fc5f26-6bf9-4700-ad3a-aded80620981.png)
 # Contact Page 
 ![image](https://user-images.githubusercontent.com/110786692/183488108-846cd12c-8931-4456-9749-82a5a93b9838.png)
+# Here is the Deployment Process (Azure Web Static app):-
+![image](https://user-images.githubusercontent.com/110786692/184422405-615bac2e-e57f-44c0-a3bf-4bf08e87cd88.png)
+![image](https://user-images.githubusercontent.com/110786692/184422461-c0083289-c358-4ace-a65e-f52a76521ac6.png)
